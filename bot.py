@@ -1,7 +1,7 @@
 import telebot
 
-TOKEN = "BU_YERGA_BOT_TOKENINGNI_YOZ"
-ADMIN_ID = 123456789  # bu yerga Telegram ID yoziladi
+TOKEN = 8239578701
+ADMIN_ID = 123456789  # 5962242471
 
 bot = telebot.TeleBot(TOKEN)
 
